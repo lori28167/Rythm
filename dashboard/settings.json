@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/milrato",
+      "domain": "https://Musicium.LorenzoCozzagli.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Musicium.LorenzoCozzagli.repl.co/callback",
+        "clientID": "966743296695214181",
+        "secret": "iCdyfMAF3EWBGWzhWqrV2qLMZwFAvS70"
+    }
+  }
